@@ -1,3 +1,5 @@
+Watch the [tutorial on youtube](https://www.youtube.com/watch?v=JK4RklA8dkk)
+
 # Solve the Knapsack Problem with a Genetic Algorithm in Python
 
 From a list with the following weights:
